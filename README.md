@@ -1,4 +1,4 @@
-# portfolio
+# Portfolio
 My Portfolio Website
 ## Credit
 * https://fonts.google.com/
