@@ -86,7 +86,6 @@ a:hover {
 }
 
 .shadow-effect:hover {
-  /* box-shadow: -6px 6px 0 0 var(--color-brand); */
   box-shadow: var(--color-brand) 0px 2px 4px 0px, var(--color-brand) 0px 2px 16px 0px;
   
 }
